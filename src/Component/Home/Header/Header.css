@@ -1,0 +1,16 @@
+
+    .header-container {
+        height:820px;
+        position:relative;
+        
+    }
+    .header-container::after{
+        height:820px;
+        content:' ';
+        position: absolute;
+        top: 0;
+        width: 25%;
+        right: 0;
+        background-color: rgba(58,66,86,255);
+        z-index: -50;
+    }

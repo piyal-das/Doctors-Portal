@@ -1,0 +1,9 @@
+.testimonials .container{
+    background-image: url(../../../images/quote.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.testomonials .card{
+    border-color: transparent;
+}
