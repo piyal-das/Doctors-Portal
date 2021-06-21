@@ -20,7 +20,7 @@ const Sidebar = () => {
   // const [isDoctor, setIsDoctor] = useState(false)
 
   //     useEffect(() => {
-  //         fetch('http://localhost:5000/isDoctor',{
+  //         fetch('https://mighty-brushlands-32636.herokuapp.com/isDoctor',{
   //             method: 'POST',
   //             headers: {
   //                 'Content-type': 'application/json; charset=UTF-8',

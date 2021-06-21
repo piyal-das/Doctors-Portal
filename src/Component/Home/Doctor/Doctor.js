@@ -14,7 +14,7 @@ const dr = ({ dr }) => {
         <img
           style={{ height: "200px" }}
           className="img-fluid mb-3"
-          src={`http://localhost:5000/${dr.img}`}
+          src={`https://mighty-brushlands-32636.herokuapp.com/${dr.img}`}
           alt=""
         />
       )}

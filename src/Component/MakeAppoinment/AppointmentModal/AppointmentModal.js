@@ -24,7 +24,7 @@ const AppointmentModal = ({openModal, closeModal, modalIsOpen ,appointmentOn, da
     data.date = date;
     data.created = new Date();
 
-     fetch('http://localhost:5000/addAppointment', {
+     fetch('https://mighty-brushlands-32636.herokuapp.com/addAppointment', {
        method : 'POST',
        headers: {
         'Content-type': 'application/json; charset=UTF-8',

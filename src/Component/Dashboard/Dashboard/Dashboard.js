@@ -21,7 +21,7 @@ const Dashboard = () => {
 
     useEffect(() =>{
         
-        fetch('http://localhost:5000/appointmentByDate', {
+        fetch('https://mighty-brushlands-32636.herokuapp.com/appointmentByDate', {
             method: 'POST',
             headers: {
                 'Content-type': 'application/json; charset=UTF-8',
