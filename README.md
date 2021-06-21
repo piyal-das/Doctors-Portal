@@ -16,11 +16,13 @@ Doctor Portal is an application for Doctors where are you can Create an appointm
 - Node.js
 - Firebase
 - Html
-- SCSS
 ### Client Site Dependencies
 - bootstrap
 - react-bootstrap
 - react-hook-form
+- react-router-dom
+- react-modal
+- regex
 - node
 - react-modal-video
 - fontawesome
@@ -29,5 +31,6 @@ Doctor Portal is an application for Doctors where are you can Create an appointm
 - express.js
 - Heroku
 - body-parser
+- nodemon
 - cors
 - dotenv
